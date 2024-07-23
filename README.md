@@ -16,3 +16,6 @@ Core Miner Refiner V1:
 ![Alt text](CoreMinerRefinerEngine.png "Alt Text")
 [Core Miner Refiner ( Engine ) .md](CoreMinerRefinerEngine.md)
 
+So - 1x2 Train Refuel Station : 
+![Alt text](RefuelStation.png "Alt Text")
+[2x1TrainBufferStation.md](RefuelStation.md)
